@@ -1,6 +1,10 @@
 # python-challenge-1
 Ai BootCamp Module 2 Challenge Submission by Aaron Wood
 
+big_variety_food_truck_menu.py is a well-formatted script that achieves the objectives below.
+
+Note: I used ChatGPT to help me get unstuck, and to try my best to learn what, basically, each line of code is doing.  It provides very clear explanations about what is going on with the code. Having last written code in Basic and FORTRAN in the early 90's, writing in python at this speed is a major challenge. Even w/ ChatGPT help, I spent about 35-40 hours on this particular challenge.
+
 Background
 You'll be designing an interactive ordering system from a food truck menu, using the skills you've learned in Python so far.
 
